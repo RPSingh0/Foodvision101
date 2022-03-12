@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+downloaded_gs_model/
+ten_gpu/
+fine_tune_checkpoints/
+model_checkpoints/
